@@ -16,10 +16,11 @@ timezone: Asia/Karachi
 
 title: Shaz Syed # the main title
 
-tagline: A text-focused Jekyll themes # it will display as the sub-title
+tagline: "Hacking My Way: Casual Cybersecurity Explorations" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Welcome to Shaz Syed's cybersecurity blog! Dive into my CTF writeups, bug bounty hunting adventures, and explorations in cyber defense.
+  Join me on my journey as I uncover digital vulnerabilities and share insights into the world of cybersecurity.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +30,7 @@ github:
   username: shazsyed # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
